@@ -1,6 +1,8 @@
-# itcga_research_project
+# itcga_research_project 
+Integrated Training in Computational Genomics and Data Sciences - U54 Comprehensive Partnership for Cancer Disparities Research
+NIH/NCI grant # 3U54CA156734-13S2
 
-Hello everyone, My name is Aryan Kikaganeshwala. I was accepted to the ITCGA Cancer Workshop which ran for a month.
+Hello everyone, My name is Aryan Kikaganeshwala. I was accepted to the ITCGA Cancer Research Workshop which ran for a month.
 The ITCGA Cancer Research workshop was a wonderful experience where I got the opportunity to explore the applications of Data Science in detecting potential biomarkers of glioblastoma in blood. For the first 2 weeks, we learned how to work with raw RNA seq data. We worked through the pipeline:
 
     RNA-Seq data -> Quality Assessment -> Trimming -> Alignment (using the indexed Genome) -> Sorting -> Indexing -> Matrix Gene Expression -> Differential Gene Expression
